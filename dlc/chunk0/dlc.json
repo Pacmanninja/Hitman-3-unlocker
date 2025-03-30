@@ -1,0 +1,871 @@
+{
+	"file": "0057C2C3941115CA",
+	"type": "ORES",
+	"patch": [
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HITMANSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_PARIS_HERO_PARISSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SAPIENZA_HERO_SAPIENZASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SAPIENZA_HERO_SAPIENZASUIT_NOGLASSES"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_HERO_MARRAKESHSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_HERO_BANGKOKSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_HERO_FLUSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_HERO_RABIESSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_HERO_COLORADOSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_GUARD_ELITE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_WORKER_CAFE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_WORKER_EMBASSYJANITOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_WORKER_HANDYMAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MARRAKESH_WORKER_LOCALFOODVENDOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_PARIS_RESTAURANTCHEF_MALE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_PARIS_FASHIONSHOWWAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_PARIS_STYLIST"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_PARIS_EVENTCREW"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ITALY_LABTECHNICIAN_MALE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ITALY_GUARD_MANSION_MALE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ITALY_GARDENER_MALE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ITALY_KITCHENASSISTANT_MALE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_GUARD_HOTELSECURITY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_WORKER_RESTAURANTWAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_WORKER_KITCHENSTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_WORKER_HOTELSTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_WORKER_RECORDINGCREW"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_UNIQUE_EXTERMINATOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANGKOK_WORKER_GROUNDSKEEPER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_GUARD_MILITIABASIC"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_GUARD_MILITIADEMOMAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_GUARD_MILITIATECHNICIAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLORADO_WORKER_HACKER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_WORKER_CHEF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_WORKER_SURGEON"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_HERO_NINJASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_WORKER_HANDYMAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HOKKAIDO_WORKER_RESORTSTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_NEWZEALAND_HERO_NEWZEALANDSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_HERO_MIAMISUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_HERO_COLOMBIASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_HERO_MUMBAISUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_NORTHAMERICA_HERO_NORTHAMERICASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_NORTHSEA_HERO_NORTHSEASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_HERO_GREEDYSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIDNIGHT_BLACK_COLLECTORS"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ARCTICPACK_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_URBAN_CLASSIC"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_STINGRAY_MASTERY_REWARD_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WET_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WELCOME_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BANK_STARTING_SUIT_REWARD"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_FIBERWIRE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_BLACK_PHONE_CORD"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_QUICKDRAW"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_PITON"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_PIRATE_SABRE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_EIFFELSOUVENIR_CLUB"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_HERO_PISTOL_TACTICAL_ICA_19"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_HERO_PISTOL_TACTICAL_ICA_19_BLACK_LILLY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_TOOL_COIN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_TOOL_ELECTRICAL_KIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_TOOL_GOLD_BAR_SMALL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_DEVICE_ICA_REMOTE_GAS_EMETIC"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_DEVICE_ICA_REMOTE_FLASH_PHONE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_DEVICE_REMOTE_RUBBERDUCK_CONCUSSION_COLLECTORS"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_DEVICE_ICA_REMOTE_FLASH"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_SYRINGE_SEDATIVE_S2"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S2"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_SNIPER_JAEGER_7_TUATARA"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_SNIPER_DRUZHINA_34_ARCTIC"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_SNIPER_CHINESE_DRAGON"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_HERO_SHOTGUN_BARTOLI_12G_SAWED_OFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_PISTOL_DARTGUN_SICK"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_PISTOL_LIFE_BALLER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_PISTOL_DEATH_BALLER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_PISTOL_BIRTH_BALLER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_HERO_RIFLE_FUSIL_X2000_STEALTH"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "FIREARMS_SMG_TACTICAL_DAK_DTI_GOLD_COVERT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_TREASURE_KNIFE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_MELEE_SNOWBALL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_WAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_RACEMARSHAL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_MECHANIC_CHINESE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_EVENTSTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_MEDIC"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_SCIENTIST"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_MASCOT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_FOODVENDOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MIAMI_WORKER_ENGINEER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_WORKER_COCAWORKER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_WORKER_CONSTRUCTIONWORKER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_WORKER_MANSIONSTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_WORKER_SUBCREW"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_COLOMBIA_GUARD_STREETSOLDIER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_WORKER_TEXTILE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_WORKER_SERVANT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_WORKER_VENDOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_WORKER_DANCER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_GUARD_LOCAL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_WORKER_METAL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_MUMBAI_GUARD_THUG"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_WORKER_GARDENER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_WORKER_CONSTRUCTION"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_WORKER_SERVER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_WORKER_GARBAGE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_WORKER_EXTERMINATOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_SKUNK_OUTBREAK"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_WORKER_CHEF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_WORKER_WAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_ARKIAN_TIER2"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_ARKIAN_TIER3"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_WORKER_CUSTODIAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_THE_ISLAND_WORKER_SENTINEL"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_ARCTIC_TOOL_BOX"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_ICA_DELUXE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_GOLDEN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_HUNTING"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_CHINESE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_BIRTH"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_LIFE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "PROP_CONTAINER_SUITCASE_DEATH"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_WORKER_INVESTMENTBANKER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_WORKER_MAINTENANCE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_WORKER_BANKTELLER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_WORKER_SECURITYGUARD"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GREEDY_WORKER_BANKROBBER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_STINGRAY_WORKER_WAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_STINGRAY_PERSONALTRAINER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_STINGRAY_VILLASTAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_PIRATE_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_GOLDEN_DEVIL_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_HUNTING_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_CHINESE_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_BIRTH_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_LIFE_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_DEATH_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_GECKO_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_HERO_GECKO_SKYDIVING"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GECKO_WORKER_STAFF_EVENT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GECKO_WORKER_TECHNICIAN"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GECKO_GUARD_SECURITY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_GECKO_WORKER_STAFF_PENTHOUSE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ANCESTRAL_HERO_ANCESTRALSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BULLDOG_GUARD_MANSION_GUARD"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BULLDOG_STAFF_MANSION_STAFF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BULLDOG_STAFF_GARDENER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_BULLDOG_UNIQUE_PRIVATEINVESTIGATOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_EDGY_HERO_EDGYSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_FOX_GUARD_BIKER_SECURITY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_FOX_WORKER_BARTENDER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_FOX_WORKER_DJ"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_FOX_WORKER_EVENTCREW"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WET_HERO_WETSUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_RAT_WORKER_STAFF_COOK"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_RAT_GUARD_FACILITY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_RAT_GUARD_STREETS"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_RAT_GUARD_BLOCK"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_RAT_WORKER_FACILITY_OFFICE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ELEGANT_HERO_LLAMASUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ELEGANT_CHEF"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ELEGANT_GAUCHO"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ELEGANT_WAITER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_ELEGANT_WORKER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_TRAPPED_WOLVERINE_SUIT"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_WORKER_DOCTOR"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_WORKER_OFFICE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_GUARD_BODYGUARD"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_GUARD_COMMANDO"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_GUARD_COMMANDO_LEADER"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_GUARD_ELITE"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_OUTFIT_WOLVERINE_GUARD_SECURITY"
+		},
+		{
+			"op": "add",
+			"path": "/PACKAGE_STARTING_PACKAGE/Properties/Unlocks/-",
+			"value": "TOKEN_HM2_CARRYOVER"
+		}
+	]
+}
