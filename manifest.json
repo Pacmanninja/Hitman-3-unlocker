@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "pacmanninja.unlocker",
 	"name": "Offline Unlocker",
 	"description": "Unlocks all game items and suits while in offline mode",
@@ -18,5 +18,5 @@
 			"contentFolders": ["dlc"]
 		}
 	],
-	"updateCheck": "https://github.com/pacmanninja/Hitman-3-unlocker/releases/latest/download/updates.json"
+	"updateCheck": "https://github.com/Pacmanninja/Hitman-3-unlocker/releases/latest/download/updates.json"
 }
